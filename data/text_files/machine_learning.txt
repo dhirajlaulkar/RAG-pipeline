@@ -1,0 +1,16 @@
+ Machine Learning:
+    Machine Learning (ML) is a subset of artificial intelligence (AI) and computer science that focuses on developing systems that learn patterns from data to make predictions or decisions, rather than being explicitly programmed for every task. It involves training models on large datasets to improve performance autonomously, covering types like supervised, unsupervised, and reinforcement learning. 
+
+Key Aspects of Machine Learning:
+Core Types:
+Supervised Learning: Algorithms learn from labeled training data to predict outcomes.
+Unsupervised Learning: Algorithms identify hidden patterns or structures in unlabeled data.
+Reinforcement Learning: Agents learn to make decisions by trial and error to maximize rewards.
+Process: Involves collecting data, training a model to identify patterns, and using the model to make predictions or generate content (e.g., in GenAI) on new, unseen data.
+Common Use Cases: Fraud detection, recommendation systems (like on Netflix or Amazon), image recognition, autonomous vehicles, and natural language processing. 
+IBM
+IBM
+ +4
+Popular ML Techniques & Tools:
+Algorithms: Linear regression, decision trees, neural networks, and clustering algorithms.
+Applications: It powers technologies from web search results to advanced AI assistants. 
