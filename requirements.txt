@@ -6,6 +6,9 @@ pymupdf
 sentence-transformers
 faiss-cpu
 chromadb
-langchain-groq
+langchain_groq
 python-dotenv
 typesense
+langgraph
+langchain-huggingface
+langchain-text-splitters
